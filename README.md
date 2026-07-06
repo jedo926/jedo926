@@ -2,7 +2,7 @@
 
 **Full-Stack & AI Engineer** — I ship production systems end to end: an enterprise RAG platform at **Trend Micro**, client work for **Al-Futtaim** and Saudi Arabia's **Ministry of Education**, and a **NASA Space Apps** ML project.
 
-📍 Riyadh, Saudi Arabia · 📫 abdulmajeedtayyar92@gmail.com
+📍 Riyadh, Saudi Arabia · 📫 abdulmajeedtayyar92@gmail.com · 🌐 [portfolio](https://portfolio-two-ruddy-zzmq57ar7c.vercel.app)
 
 ## What I build
 
