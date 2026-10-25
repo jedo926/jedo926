@@ -14,6 +14,7 @@ Riyadh, Saudi Arabia | abdulmajeedtayyar92@gmail.com | [Portfolio](https://portf
 
 | Project | What it is | Stack |
 |---|---|---|
+| [FORMA MUN Crisis](https://github.com/jedo926/forma-mun-crisis) | 16-bit cyberpunk crisis-committee site with playable fighting game and secret scenario reveal | Vanilla JS, HTML/CSS, Vercel |
 | [PassMate](https://github.com/jedo926/PassMate) | No-code Apple & Google Wallet pass platform | Next.js, TypeScript, Supabase, PassKit |
 | [TrendVision1](https://github.com/jedo926/trend-vision1) | AI cybersecurity training platform built at Trend Micro ([live](https://trendvision1.vercel.app)) | FastAPI, LangChain, RAG |
 | [Amtvision OS](https://github.com/jedo926/amtvision_os) | macOS-style web workspace with an AI assistant that operates it | Next.js, React 19, Claude |
